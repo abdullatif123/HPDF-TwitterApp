@@ -1,7 +1,7 @@
 # HPDF-TwitterApp
 (React Native Frontend)
 
-Built as a part of Task 1 submission for HPDF Internship (Hasura)
+Built as Task 1 submission for HPDF Internship (Hasura)
 
 This app is a clone of some screens(Homescreen,Searchscreen and Sidebar) of Twitter app developed in React Native.
 
